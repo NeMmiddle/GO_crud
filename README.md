@@ -1,10 +1,10 @@
 # Golang_crud
 
-## Всё что вам нужно сделать для запуска этого небольшого crud приложения:
+### All you need to do to run this small crud application is:
 ```
 git clone git@github.com:NeMmiddle/Golang_crud.git
 ```
-Затем зайдите через терминал в папку в которую вы скачали проект и введите:
+### Then go through the terminal to the folder where you downloaded the project and enter:
 ```
 CompileDaemon -command="./GO_crud"
 ```
